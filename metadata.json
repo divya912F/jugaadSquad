@@ -1,0 +1,7 @@
+{
+  "name": "SkyGuard AI - Weather Sensor Anomaly Detector",
+  "description": "Real-time weather station sensor anomaly detection dashboard with ML-based telemetry diagnostics, multi-sensor monitoring, and alert pipeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
